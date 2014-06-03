@@ -67,7 +67,7 @@ Windows:
     1) Make sure you have Python installed `http://www.python.org/download/releases/2.7.5/`
     2) Download Code here: `https://github.com/Liamraystanley/Code/zipball/master` and unzip it.
     3) Configure Code's default.py file, located in your user directory.
-       - This is often, `C:\\users\(your username)\.code\default.py`.
+       - This is often, `C:\users\(your username)\.code\config.json`.
        - Note, notepad is not prefered. If anything, use Notepad++ under windows.
     3) You can open up command prompt, `cd` to Codes directory, and execute Code with `python code`.
        - Note, if command prompt says that `python` is not a internal or external command/program,
