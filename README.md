@@ -45,7 +45,7 @@ Unix & Unix-like OS:
        - if you do not have git installed, simply install it via your package manager.
          e.i, `sudo apt-get install git`
     3) Run `./code`- this creates a default config file 
-    4) Edit ~/.code/default.py 
+    4) Edit ~/.code/config.json 
     5) Run `./code` - this now runs code with your settings 
 
 Full command would be: 
@@ -85,14 +85,14 @@ Warning! Once you install Code using the method above, you need to configure him
 Unix & Unix-like OS: 
 --------------------
 
-Edit the file located at `~/.code/default.py`.
+Edit the file located at `~/.code/config.json`.
 
 Windows
 -------
 
 Edit the file located in your Documents folder, which should be located at: 
-`C:\\users\myusername\.code\default.py` (for Windows Vista/7/8)
-`default.py` might be located in the same spot as the UNIX location listed above.
+`C:\users\myusername\.code\config.json` (for Windows Vista/7/8)
+`config.json` might be located in the same spot as the UNIX location listed above.
 You should see configuration file.
 
 Licensing
